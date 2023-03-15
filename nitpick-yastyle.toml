@@ -1,5 +1,5 @@
 # `yastyleguide` style file for nitpick
-# for users use: https://raw.githubusercontent.com/levkovalenko/yastyleguide/master/styles/nitpick-yastyle.toml
+# for users use: https://raw.githubusercontent.com/levkovalenko/yastyleguide-styles/master/nitpick-yastyle.toml
 
 [nitpick]
 minimum_version = "0.22.0"
