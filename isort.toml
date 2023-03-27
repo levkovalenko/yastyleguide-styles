@@ -1,4 +1,2 @@
-# Nitpick settings for isort
-
-["pyproject.toml".tool.isort]
+["setup.cfg".isort]
 profile = "black"

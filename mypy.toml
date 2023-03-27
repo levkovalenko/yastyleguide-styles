@@ -1,5 +1,0 @@
-# Nitpick settings for mypy
-
-["pyproject.toml".tool.mypy]
-exclude = ["tests", ".venv"]
-check_untyped_defs = true
